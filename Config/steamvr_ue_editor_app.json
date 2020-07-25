@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.first-person-bp-game-template-13594126.ue4editor.exe",
+			"app_key": "application.generated.ue.going-dark-13594126.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "D:/Github/ZombieGame/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "First Person BP Game Template-13594126 [UE Editor]"
+					"name": "Going Dark-13594126 [UE Editor]"
 				}
 			}
 		}
